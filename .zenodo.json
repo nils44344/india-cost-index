@@ -1,0 +1,25 @@
+{
+ "title": "India Cost Index 2026: what middle-class milestones cost",
+ "description": "What 40 middle-class milestones cost in India in 2026 (education, weddings, home, retirement), each with its scope and source. Live page: https://paisatools.co.in/cost-index",
+ "upload_type": "dataset",
+ "creators": [
+  {
+   "name": "PaisaTools"
+  }
+ ],
+ "license": "cc-by-4.0",
+ "access_right": "open",
+ "keywords": [
+  "India",
+  "cost of living",
+  "personal finance",
+  "middle class"
+ ],
+ "related_identifiers": [
+  {
+   "identifier": "https://paisatools.co.in/cost-index",
+   "relation": "isSupplementTo",
+   "scheme": "url"
+  }
+ ]
+}
