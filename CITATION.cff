@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "India Cost Index 2026: what middle-class milestones cost"
+abstract: "What 40 middle-class milestones cost in India in 2026 (education, weddings, home, retirement), each with its scope and source."
+authors:
+  - name: "PaisaTools"
+    website: "https://paisatools.co.in"
+repository-code: "https://github.com/nils44344/india-cost-index"
+url: "https://paisatools.co.in/cost-index"
+license: CC-BY-4.0
+keywords: [India, cost of living, personal finance, middle class, 2026]
+date-released: 2026-10-13
