@@ -1,5 +1,8 @@
 # India Cost Index 2026: what middle-class milestones cost
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23349743.svg)](https://doi.org/10.5281/zenodo.23349743)
+
+
 What the milestones of a middle-class Indian life cost, from Kota coaching to a flat's down payment to a retirement corpus, in one CSV. **40 items** across education and careers, family, festivals, home and vehicles, retirement, and starting a business. Every figure is a range with its exact scope, and every row links to the full breakdown behind it.
 
 **Live version with the breakdowns:** https://paisatools.co.in/cost-index
@@ -33,3 +36,7 @@ What the milestones of a middle-class Indian life cost, from Kota coaching to a 
 ## Licence
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): free to use, including commercially, with attribution to PaisaTools and a link to https://paisatools.co.in/cost-index.
+
+
+## Cite
+PaisaTools (2026). DOI: [10.5281/zenodo.23349743](https://doi.org/10.5281/zenodo.23349743)
