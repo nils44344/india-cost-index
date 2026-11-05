@@ -40,3 +40,6 @@ What the milestones of a middle-class Indian life cost, from Kota coaching to a 
 
 ## Cite
 PaisaTools (paisatools.co.in) (2026). DOI: [10.5281/zenodo.23349743](https://doi.org/10.5281/zenodo.23349743)
+
+## Also by PaisaTools
+Book: *Paisa Aur Mann: Money Psychology for Salaried India*. Every chapter is free to read at [paisatools.co.in/library](https://paisatools.co.in/library) (English and Hindi); the full edition is on [Amazon Kindle](https://www.amazon.in/dp/B0HQGMZ5XZ).
