@@ -39,4 +39,4 @@ What the milestones of a middle-class Indian life cost, from Kota coaching to a 
 
 
 ## Cite
-PaisaTools (2026). DOI: [10.5281/zenodo.23349743](https://doi.org/10.5281/zenodo.23349743)
+PaisaTools (paisatools.co.in) (2026). DOI: [10.5281/zenodo.23349743](https://doi.org/10.5281/zenodo.23349743)
